@@ -22,5 +22,5 @@ With features like event creation, promotion, attendee management, and more, Eve
 11] VS Code
 
 ## App Video
-[![Video](https://img.youtube.com/vi/v=HoXPjGF3gz8&ab_channel=RahulPandey/0.jpg)](https://www.youtube.com/watch?v=HoXPjGF3gz8&ab_channel=RahulPandey)
+[![Video](https://img.youtube.com/vi/2wmkWSd0UrI/0.jpg)](https://www.youtube.com/watch?v=2wmkWSd0UrI)
 

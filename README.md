@@ -21,6 +21,13 @@ With features like event creation, promotion, attendee management, and more, Eve
 10] Android Studio
 11] VS Code
 
-## App Video
-[![Video](https://img.youtube.com/vi/2wmkWSd0UrI/0.jpg)](https://www.youtube.com/watch?v=2wmkWSd0UrI)
+
+## Event Master Student Module
+[![Video](https://img.youtube.com/vi/ylnZjVtJbAA/0.jpg)](https://www.youtube.com/watch?v=DhtFR46KHm0)
+
+
+## Event Master Teacher Module
+[![Video](https://img.youtube.com/vi/DhtFR46KHm0/0.jpg)](https://www.youtube.com/watch?v=DhtFR46KHm0)
+
+
 
